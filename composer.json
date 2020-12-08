@@ -5,7 +5,7 @@
     "require": {
         "php": ">=7.1"
     },
-    "license": "apache",
+    "license": "admire",
     "authors": [
         {
             "name": "fia",
