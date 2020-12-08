@@ -1,0 +1,21 @@
+{
+    "name": "admire/test",
+    "description": "this is a test package,form admire, author is fia",
+    "type": "l",
+    "require": {
+        "php": ">=7.1"
+    },
+    "license": "apache",
+    "authors": [
+        {
+            "name": "fia",
+            "email": "1192835359@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "fia\\" : "src/test" 
+        }
+    }
+}
